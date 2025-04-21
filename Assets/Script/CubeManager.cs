@@ -7,7 +7,7 @@ public class CubeManager : MonoBehaviour
     public CubeGenerator[] generatedCubes = new CubeGenerator[5];
 
     public float timer = 0.0f;
-    public float interval = 3.0f;
+    public float interval = 2.5f;
     // Start is called before the first frame update
     void Start()
     {
