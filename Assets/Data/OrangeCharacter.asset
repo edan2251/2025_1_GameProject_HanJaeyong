@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef640e45b4794e849b2a5e89f7b020c2, type: 3}
+  m_Name: OrangeCharacter
+  m_EditorClassIdentifier: 
+  characterName: "\uC624\uB80C\uC9C0 \uCE90\uB9AD\uD130"
+  characterImage: {fileID: 21300000, guid: efa04079d48d7794ca7495dc4573349b, type: 3}
+  dialogueLines:
+  - "\uCE90\uB9AD\uD130 \uB300\uC0AC 1\uBC88\n\uC548\uB155\uD558\uC138\uC694\uC800\uB294\uC624\uB80C\uC9C0\uC5D0\uC694\n\uC800\uB294\uC624\uB80C\uC9C0\n\uB098\uB294\uC624\uB80C\n\uC9C0"
+  - "\uCE90\uB9AD\uD130 \uB300\uC0AC 2\uBC88\n\uC800\uB294\uC624\uB80C\uC9C0\uC628\n\uC62C\uB290\uC81C\uC548\u3139\n\u3139\uC624\uB0B4\u3154\u313B"
+  - "\uCE90\uB9AD\uD130 \uB300\uC0AC 3\uBC88\n\u3139\u3147\u3134\u3141\u3139\u3147\u3134\u3141\u3139\u3147\u3134\u3141\u3139\u3134\u3147\u3139\u3134\n\u3139\u3147\u3134\u313B\u3147\u3134\u3141\u3139\u3147\u3134\u3141\n\u3139\u3147\u3134\u3141\u3139\n\u3147\u3134\u3141\u3139\n\u3134\u3147\u3141\u3139"
+  - "\uCE90\uB9AD\uD130 \uB300\uC0AC 4\uBC88\n\u3139\u3147\u3141\u3134\u3139\u3147\u3134\u3141\u3139\n\u313B\n\u313B\u3134\n\u313B\n\u3139\n"

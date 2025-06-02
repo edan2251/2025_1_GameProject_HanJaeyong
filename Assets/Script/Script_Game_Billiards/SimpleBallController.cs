@@ -14,9 +14,9 @@ public class SimpleBallController : MonoBehaviour
     private bool        isDragging = false;             //드래그 중인지
     private Vector3     startPos;                       //드래그 시작 위치
 
-    //턴 관리를 위한 전역 변수(모든 공이 공유)(하나가 true 면 전부 true)
-    static bool         isAnyBallPlaying = false;       //어떤 공이라도 턴 중인지
-    static bool         isAnyBallMoving = false;       //어떤 공이라도 움직이는지
+    ////턴 관리를 위한 전역 변수(모든 공이 공유)(하나가 true 면 전부 true)
+    //static bool         isAnyBallPlaying = false;       //어떤 공이라도 턴 중인지
+    //static bool         isAnyBallMoving = false;       //어떤 공이라도 움직이는지
 
 
     // Start is called before the first frame update
